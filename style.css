@@ -1,0 +1,8 @@
+body {
+    font-size: 15pt;
+}
+#border-image-1{border:20px solid transparent;
+  padding:15px;
+  border-image:url("image/border.png") round 20%
+}
+h1hover{color:red;}
